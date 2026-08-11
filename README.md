@@ -35,7 +35,6 @@ For Y1 and Y2:
 - sorted the data in descending order and picked the top three most strongly correlated features.
 
 # Summary
-Summary
 Loaded and inspected the data on energy efficiency.
 Visualised and quantified how design features (compactness, orientation, glazing, height) influence heating and cooling loads.
 Identified which features are most closely linked to each target variable.
